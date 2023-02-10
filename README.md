@@ -15,9 +15,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
+
 - Live Site URL: [Add live site URL here](https:/qr-component.navharsh.me)
 
 ### Built with
@@ -53,4 +54,4 @@ const proudOfThisFunc = () => {
 
 - Website - [Navharsh](https://navharsh.me)
 - Frontend Mentor - [@Navharsh-Kr](https://www.frontendmentor.io/profile/Navharsh-Kr)
-- Twitter - [@ynavharsh_](https://www.twitter.com/navharsh_)
+- Twitter - [@ynavharsh\_](https://www.twitter.com/navharsh_)
