@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -28,9 +27,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 
-
 ## Author
 
 - Website - [Navharsh](https://navharsh.me)
 - Frontend Mentor - [@Navharsh-Kr](https://www.frontendmentor.io/profile/Navharsh-Kr)
-- Twitter - [@ynavharsh\_](https://www.twitter.com/navharsh_)
+- Twitter - [@navharsh\_](https://www.twitter.com/navharsh_)
